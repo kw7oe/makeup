@@ -87,7 +87,7 @@ Using a PEG parser we can define the grammar in a more natural way.
 
 It supports fewer languages.
 
-The lexers are written using the excellent [NimbleParsec](https://github.com/dashbit/nimble_parsec) parser.
+The lexers are written using the excellent [NimbleParsec](https://github.com/dashbitco/nimble_parsec) parser.
 
 ## Documentation on how to write a new lexer
 
